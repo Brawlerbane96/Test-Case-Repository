@@ -1,0 +1,9 @@
+# Test Cases for Login
+
+## Description
+This folder contains test cases related to the login functionality of the application.
+
+## Test Cases
+- [TC001: Successful Login](login/TC001_successful_login.md)
+- [TC002: Invalid Credentials](login/TC002_invalid_credentials.md)
+- [TC003: Forgot Password](login/TC003_forgot_password.md)
